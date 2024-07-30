@@ -1,0 +1,7 @@
+@startmindmap
+* <size:40><color:navy>Estudo de Caso do</color></size>\n<size:40><color:navy>Sistema Hospitalar</color></size>
+* <size:25><color:blue>Atendimento</color></size>
+** <size:20><color:red>Direita</color></size>
+-- <size:20><color:yellow>Esquerda</color></size>
+
+@endmindmap
